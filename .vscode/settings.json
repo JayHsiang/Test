@@ -1,0 +1,7 @@
+{
+    "ros.distro": "kinetic",
+    "files.associations": {
+        "*.world": "xml",
+        "*.launch": "xml"
+    }
+}
